@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><html>  	<body>  		<div>dfd<div>  		<div>dfd<div>  		<div>dfd<div>  		<div>dfd<div>  		<div>dfd<div>  		<div>dfd<div>  	</body>  </html>
